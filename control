@@ -1,0 +1,9 @@
+Package: com.joshdoctors.nonearme
+Name: NoNearMe
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the 'Near Me' tab from the AppStore application.
+Maintainer: Josh Doctors
+Author: Josh Doctors
+Section: Tweaks

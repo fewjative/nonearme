@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NoNearMe;
+	cell = PSLinkCell;
+	detail = NoNearMeListController;
+	icon = NoNearMe.png;
+	isController = 1;
+	label = NoNearMe;
+    };
+}
